@@ -15,5 +15,11 @@ https://github.com/aegiloru/Pacheco-UC-AP_2019</br>
 Study and implementation of an autonomous navigation algorithm for a scale electric car.</br>
 https://github.com/aegiloru/Jara_UC-AP_2019</br>
 
+<b> Source code of original implementation <b></br>
+Team 1712. (2018). Implementation of the Adaptive Pure Pursuit Controller. Recuperado el 09 de marzo de 2019, de chiefdelphi: https://www.chiefdelphi.com/t/paper-implementation-of- the-adaptive-pure-pursuit-controller/166552 </br>
+
+<b> Github link of Team-1712 <b></br>
+https://github.com/Dawgma-1712/new-FRC-2018
+
 
 
