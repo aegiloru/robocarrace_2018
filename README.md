@@ -22,6 +22,6 @@ Team 1712. (2018). Implementation of the Adaptive Pure Pursuit Controller. Recup
 https://github.com/Dawgma-1712/new-FRC-2018</br>
 
 
-<b> NI Student Challenge 2018 - NI Forum<b></br>
+<b> NI Student Challenge 2018 - NI Forum</b></br>
 https://forums.ni.com/t5/Showcasing-Student-Innovation/nbsp-Development-of-an-autonomous-vehicle-at-a-nbsp-1-8-scale/ta-p/3898677?profile.language=es</br>
 
