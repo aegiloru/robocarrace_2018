@@ -19,7 +19,9 @@ https://github.com/aegiloru/Jara_UC-AP_2019</br>
 Team 1712. (2018). Implementation of the Adaptive Pure Pursuit Controller. Recuperado el 09 de marzo de 2019, de chiefdelphi: https://www.chiefdelphi.com/t/paper-implementation-of- the-adaptive-pure-pursuit-controller/166552 </br>
 
 <b> Github link of Team-1712 <b></br>
-https://github.com/Dawgma-1712/new-FRC-2018
+https://github.com/Dawgma-1712/new-FRC-2018</br>
 
 
+<b> NI Student Challenge 2018 - NI Forum<b></br>
+https://forums.ni.com/t5/Showcasing-Student-Innovation/nbsp-Development-of-an-autonomous-vehicle-at-a-nbsp-1-8-scale/ta-p/3898677?profile.language=es</br>
 
